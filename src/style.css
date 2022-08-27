@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.app {
+  width: 317px;
+} 
+
+/* Info */
+.info {
+
+}
+
+.profilePic {
+  width: 317px;
+}
+
+.buttons-grp {
+  display: flex;
+}
+
+/* About */ 
+.about {
+
+}
+
+/* Interests */
+.interests {
+
+}
+
+/* Footer */ 
+footer {
+  display: flex;
+}

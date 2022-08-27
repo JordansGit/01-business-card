@@ -1,3 +1,8 @@
+# This is my solution to project 01 from scrimba's react course. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

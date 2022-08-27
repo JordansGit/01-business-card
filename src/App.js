@@ -1,10 +1,14 @@
+import Info from './components/Info'
+import About from './components/About'
+import Interests from './components/Interests'
 import Footer from './components/Footer'
-import Main from './components/Main'
 
 function App() {
   return (
-    <div className="App">
-      <Main />
+    <div className="app">
+      <Info />
+      <About />
+      <Interests />
       <Footer />
     </div>
   );
