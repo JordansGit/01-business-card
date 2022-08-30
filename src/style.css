@@ -7,6 +7,10 @@
 body {
   margin: 0;
   background: #23252C;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
@@ -40,6 +44,10 @@ button {
   font-size: 14px;
   border: none;
   border-radius: 7px;
+}
+
+button img {
+  margin-right: 8px;
 }
 
 .app {
@@ -76,6 +84,10 @@ button {
 .linkedIn-btn {
   background: #5093E2;
 
+}
+
+.linkedIn-btn img {
+  margin-bottom: -2px;
 }
 
 
